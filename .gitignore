@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Runtime runtime files / cache
+data/widget.pid
+data/state_cache.json
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Editor files
+.vscode/
+.idea/

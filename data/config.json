@@ -1,0 +1,15 @@
+{
+  "pos_x": 884,
+  "pos_y": 11,
+  "show_widget": true,
+  "compact_mode": true,
+  "always_on_top": true,
+  "gaming_mode": true,
+  "lock_position": true,
+  "opacity": 0.95,
+  "low_battery_threshold": 20,
+  "enable_notifications": true,
+  "cable_connected_alert": true,
+  "charge_full_alert": true,
+  "autostart": true
+}
