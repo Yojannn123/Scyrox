@@ -1,10 +1,10 @@
-# ⚡ Scyrox V8 Battery Monitor & Widget
+#  Scyrox V8 Battery Monitor & Widget
 
 Un widget elegante, minimalista y ultra ligero para monitorear en tiempo real la batería de tu mouse **Scyrox V8** (y V6) directamente en Windows, sin necesidad de abrir el navegador ni la web oficial.
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 1. **Superposición sobre Juegos (Gaming Overlay):**
    - **Siempre visible encima de juegos:** Configurado con atributos Win32 (`WS_EX_TOPMOST` y reaserción periódica) para flotar encima de tus juegos en pantalla completa sin bordes / ventana.
@@ -39,7 +39,7 @@ Un widget elegante, minimalista y ultra ligero para monitorear en tiempo real la
 
 ---
 
-## 🎮 Controles Rápidos
+##  Controles Rápidos
 
 - **Clic Izquierdo y Arrastrar:** Mueve el widget por la pantalla.
 - **Doble Clic:** Alterna entre Modo Detallado y Modo Compacto.
@@ -48,7 +48,7 @@ Un widget elegante, minimalista y ultra ligero para monitorear en tiempo real la
 
 ---
 
-## 🚀 Inicio y Configuración
+##  Inicio y Configuración
 
 Puedes iniciar el programa haciendo doble clic en:
 - `Iniciar_Scyrox_Widget.bat` o
